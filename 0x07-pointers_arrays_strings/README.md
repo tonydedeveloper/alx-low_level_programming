@@ -1,0 +1,1 @@
+moer pointers and arrays
