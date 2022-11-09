@@ -1,11 +1,11 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
- * _strcpy - Copy paste string
- * @dest: destination
- * @src: source
- *
- * Return: destination
+ * _strcpy - This function copies a string pointed to scr and dest
+ * @dest: pointer parameter
+ * @src: pointer parameter
+ * Return: char
  */
 
 char *_strcpy(char *dest, char *src)
@@ -19,7 +19,5 @@ char *_strcpy(char *dest, char *src)
 	}
 	*(dest + inc) = '\0';
 
-
 	return (dest);
 }
-
