@@ -8,7 +8,6 @@
  * @str: array str
  *
  * Return: Always 0 (Success)
- *
  */
 
 int check_num(char *str)
@@ -72,5 +71,4 @@ count++;
 printf("%d\n", sum); /*print sum*/
 
 return (0);
-
 }
