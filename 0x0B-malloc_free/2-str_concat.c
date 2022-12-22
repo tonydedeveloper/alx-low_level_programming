@@ -1,6 +1,5 @@
 #include "main.h"
 
-tr[concat_index++] = s1[index];
 /**
  * str_concat - a function that concatenates two strings
  * @s1:First string
